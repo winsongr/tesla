@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "351226015929",
+    "project_id": "tesla-wd",
+    "storage_bucket": "tesla-wd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351226015929:android:7c9930248e0fee56dbab68",
+        "android_client_info": {
+          "package_name": "com.winson.tesla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351226015929-43d37v754shl6a8a2o72v8h54cpiifc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winson.tesla",
+            "certificate_hash": "1a2d6c1760b09f110809cf40bf348aaf2679f790"
+          }
+        },
+        {
+          "client_id": "351226015929-0dnjpvrf9pahbt588j48i8ivbmiu77h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTzgQGr08r3U6rrj2GkajWeP6t3XaI6CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351226015929-0dnjpvrf9pahbt588j48i8ivbmiu77h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
